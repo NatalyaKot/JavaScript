@@ -1,0 +1,26 @@
+.messag {
+    border: 1px solid #000;
+    padding: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list__item {
+    margin-bottom: 30px;
+}
+
+.messag--error {
+    background-color: red;
+}
+
+.messag--succes {
+    background-color: burlywood;
+}
+
+.messag--happy {
+background-color: cyan;
+}
+
+.footer {
+    background: darkgrey;
+}
